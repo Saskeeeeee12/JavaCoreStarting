@@ -5,4 +5,4 @@ https://habr.com/ru/articles/440436/#20
 
 
 
-the project is in "master" the folder
+the project is in "master" the branches
